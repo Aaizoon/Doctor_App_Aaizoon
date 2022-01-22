@@ -1,0 +1,14 @@
+String patientName = "";
+String patientEmail = "";
+String patientMobileNumber = "";
+String channelName = "";
+String patientPicture="";
+String patientWeight="";
+String patientHeight="";
+String patientGender="";
+String patientDOB="";
+String doctorId="";
+String patientId="";
+String bookingId="";
+String labId="";
+String appointmentMode="";
